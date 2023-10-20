@@ -1,0 +1,5 @@
+# Printing the power of number
+x = int(input("Enter the value of x: "))
+n = int(input("Enter the value of power"))
+
+print(x ** n)
